@@ -1,3 +1,4 @@
+
 # Phaser-Game-AVOID
 ![banner-01](https://user-images.githubusercontent.com/71779024/96336238-e6f47100-10b0-11eb-811d-4a890e469ebc.png)
 
@@ -52,11 +53,11 @@ This game will be a web-based game (e.g. Windows, Mac). Mobile Cross platform (e
 ## GRAPHICS
 ### Characters
 * Spray Cartoon Bottle
- * Spray Bottle (run, walk, stay)
+  * Spray Bottle (run, walk, stay)
 * Viruses Cartoon
- * Viruses (moving, revolve, jump)
+  * Viruses (moving, revolve, jump)
 * Capsule Pill Cartoon Hero
- * Capsule Pill Hero (flying, falling)
+  * Capsule Pill Hero (flying, falling)
 ### Background
 * Level 1
 ![morn-01](https://user-images.githubusercontent.com/71779024/96337156-7735b480-10b7-11eb-96fc-483f23db2b84.png)
@@ -65,9 +66,9 @@ This game will be a web-based game (e.g. Windows, Mac). Mobile Cross platform (e
 * Level 3
 ![eve-01](https://user-images.githubusercontent.com/71779024/96337160-7ac93b80-10b7-11eb-80e7-71c5a568bb1c.png)
 * Level 4
-![back4asset-01](https://user-images.githubusercontent.com/71779024/96339325-a0aa0c80-10c6-11eb-96a8-207fc92b4635.png)
-* Level 5
 ![dessert-01](https://user-images.githubusercontent.com/71779024/96337157-78ff7800-10b7-11eb-93e6-73590ca0b0af.png)
+* Level 5
+![back4asset-01](https://user-images.githubusercontent.com/71779024/96339325-a0aa0c80-10c6-11eb-96a8-207fc92b4635.png)
 * And so on when the game will update.
 ### Foreground
  * Road
